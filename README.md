@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=Igor+Ferro;Cyberpunk+Developer;System+Online" alt="Igor Ferro Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=42&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=500&lines=Trust no One;Igor+Ferro;" alt="Igor Ferro Typing SVG" />
+</p>
 </div>
 
 <div align="center">
