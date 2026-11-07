@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" alt="Cyberpunk 2077 V GIF" src="https://github.com/user-attachments/assets/59f561f1-bd8a-4bb3-85fc-c5c5474ba079" />
+  <img src="https://media.giphy.com/media/m57oHTJBoRgM4F7Ipm/giphy.gif" width="100%" alt="Cyberpunk Banner" />
 </div>
 
 ## Igor Miranda
