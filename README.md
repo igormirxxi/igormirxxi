@@ -2,8 +2,8 @@
   <img width="480" height="270" alt="Cp2077 GIF by Cyberpunk 2077" src="https://github.com/user-attachments/assets/df7b86c5-9447-464d-b2ea-6a5471f42103" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Trust no One;Igor+Ferro" alt="Igor Ferro Typing SVG" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+No+One;Igor+Ferro" alt="Igor Ferro Typing SVG" />
 </div>
 
 
