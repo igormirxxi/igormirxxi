@@ -3,9 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 style="font-family: monospace; font-size: 36px; font-weight: bold; color: #FFD700; text-shadow: 0 0 5px #00F3FF, 0 0 10px #00F3FF, 0 0 20px #FFD700;">
-    Igor Ferro
-  </h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Igor+Ferro;Cyberpunk+Developer;System+Online" alt="Igor Ferro Typing SVG" />
 </div>
 
 
