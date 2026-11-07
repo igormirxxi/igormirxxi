@@ -2,10 +2,12 @@
   <img width="480" height="270" alt="Cp2077 GIF by Cyberpunk 2077" src="https://github.com/user-attachments/assets/df7b86c5-9447-464d-b2ea-6a5471f42103" />
 </div>
 
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F3FF,100:FFD700&height=120&section=header&text=Igor%20Ferro&fontSize=40&fontColor=fff&animation=twinkle" alt="Igor Ferro" />
+  <h1 style="font-family: monospace; font-size: 36px; font-weight: bold; color: #FFD700; text-shadow: 0 0 5px #00F3FF, 0 0 10px #00F3FF, 0 0 20px #FFD700;">
+    Igor Ferro
+  </h1>
 </div>
+
 
 
 <div align="center">
