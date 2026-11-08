@@ -3,9 +3,11 @@
 </div>
 
 <div align="center">
+<p align="center">
   <img
-src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=32&duration=3000&pause=1000&color=00FFC4&center=tru
+src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=28&duration=3000&pause=1000&color=00FFC4&center=tru
 e&vCenter=true&width=450&height=60&lines=Trust+No+One;Igor+Ferro" alt="Trust No One" />
+</p>
 </div>
 
 <div align="center">
