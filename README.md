@@ -3,7 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&weight=700&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Trust+No+One;Igor+Ferro" alt="Igor Ferro Typing SVG" />
+    <img
+src="https://see.fontimg.com/api/renderfont4/1G2j/eyJhIjoiODIzaW5pciIsImgiOjc1LCJ3IjoxMjUwLCJmcyI6NDUsImZjciI6IiMwMEZGQzQiLCJiY2ciO
+iIifQ/VHJ1c3QgTm8gT25l/share-tech-mono.png" alt="Trust No One">
 </div>
 
 
