@@ -3,11 +3,10 @@
 </div>
 
 <div align="center">
-    <img
-src="https://see.fontimg.com/api/renderfont4/1G2j/eyJhIjoiODIzaW5pciIsImgiOjc1LCJ3IjoxMjUwLCJmcyI6NDUsImZjciI6IiMwMEZGQzQiLCJiY2ciO
-iIifQ/VHJ1c3QgTm8gT25l/share-tech-mono.png" alt="Trust No One">
+  <img
+src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=32&duration=3000&pause=1000&color=00FFC4&center=tru
+e&vCenter=true&width=400&height=60&lines=Trust+No+One;Igor+Ferro" alt="Trust No One" />
 </div>
-
 
 
 <div align="center">
