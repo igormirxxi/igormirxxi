@@ -5,9 +5,8 @@
 <div align="center">
   <img
 src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=32&duration=3000&pause=1000&color=00FFC4&center=tru
-e&vCenter=true&width=400&height=60&lines=Trust+No+One;Igor+Ferro" alt="Trust No One" />
+e&vCenter=true&width=450&height=60&lines=Trust+No+One;Igor+Ferro" alt="Trust No One" />
 </div>
-
 
 <div align="center">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
